@@ -1,0 +1,9 @@
+{
+  "short_name": "Nerf Blaster",
+  "name": "Jude Blasters",
+  "display": "standalone",
+  "icons": [],
+  "start_url": "index.html?launcher=true",
+  "theme_color": "#a040a0",
+  "background_color": "#EEEEEE"
+}
